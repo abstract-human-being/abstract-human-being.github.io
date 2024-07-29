@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Site Name
+title: Abstract Human Being
 ---
 # Github.io template. Index
 <pre>
